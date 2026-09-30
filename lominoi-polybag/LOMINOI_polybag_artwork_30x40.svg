@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300mm" height="440mm" viewBox="0 0 300 440">
+<!-- LOMINOI polybag front, 1:1, 1 colour #231f20. Bag 300x400 mm + 40 mm flap. Grey = die-line/guides, DO NOT PRINT. -->
+<rect x="0" y="0" width="300" height="440" fill="#fff" stroke="#9a9a9a" stroke-width="0.6"/>
+<line x1="0" y1="40" x2="300" y2="40" stroke="#9a9a9a" stroke-width="0.5" stroke-dasharray="3 2"/>
+<rect x="6" y="16.0" width="288" height="8" fill="#e9e6df" stroke="#b9b3a6" stroke-width="0.3"/>
+<circle cx="90.0" cy="112.0" r="3" fill="none" stroke="#9a9a9a" stroke-width="0.5"/>
+<circle cx="210.0" cy="112.0" r="3" fill="none" stroke="#9a9a9a" stroke-width="0.5"/>
+<g transform="translate(277.56756756756755,410) scale(0.02702702702702703)" fill="#231f20"><path d="M0,0 H6 A60,60 0 0 1 66,60 V290 A60,60 0 0 1 6,350 H0 Z M0,347 H165 V415 H0 Z"/><path d="M0,0 H6 A60,60 0 0 1 66,60 V290 A60,60 0 0 1 6,350 H0 Z M0,347 H165 V415 H0 Z" transform="rotate(180 137.5 277.5)"/></g>
+<text x="28" y="415.4" font-family="Liberation Sans" font-size="2.6" fill="#231f20" font-weight="700">WARNING: To avoid danger of suffocation, keep this bag</text>
+<text x="28" y="419.0" font-family="Liberation Sans" font-size="2.6" fill="#231f20">away from babies and children. Do not use this bag in</text>
+<text x="28" y="422.59999999999997" font-family="Liberation Sans" font-size="2.6" fill="#231f20">cribs, beds, carriages or playpens. This bag is not a toy.</text>
+<g transform="translate(15,412.5)" fill="none" stroke="#231f20" stroke-width="0.45"><path d="M4.5,0 L9,7.83 L0,7.83 Z"/><text x="4.5" y="6.264" font-size="3.78" text-anchor="middle" fill="#231f20" stroke="none" font-family="Liberation Sans" font-weight="700">4</text><text x="4.5" y="11.030000000000001" font-size="2.9" text-anchor="middle" fill="#231f20" stroke="none" font-family="Liberation Sans" font-weight="700">LDPE</text></g>
+</svg>
